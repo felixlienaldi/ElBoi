@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 7c06a798a8ed97145810d4eec1845512
+timeCreated: 1516772655
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SheetAttack-3_0
+    21300002: SheetAttack-3_1
+    21300004: SheetAttack-3_2
+    21300006: SheetAttack-3_3
+    21300008: SheetAttack-3_4
+    21300010: SheetAttack-3_10
+    21300012: SheetAttack-3_
+    21300014: SheetAttack-3_11
+    21300016: SheetAttack-3_12
+    21300018: SheetAttack-3_8
+    21300020: SheetAttack-3_9
+    21300022: SheetAttack-3_14
+    21300024: SheetAttack-3_15
+    21300026: SheetAttack-3_16
+    21300028: SheetAttack-3_17
+    21300030: SheetAttack-3_18
+    21300032: SheetAttack-3_19
+    21300034: SheetAttack-3_20
+    21300036: SheetAttack-3_21
+    21300038: SheetAttack-3_22
+    21300040: SheetAttack-3_23
+    21300042: SheetAttack-3_24
+    21300044: SheetAttack-3_25
+    21300046: SheetAttack-3_26
+    21300048: SheetAttack-3_27
+    21300050: SheetAttack-3_28
+    21300052: SheetAttack-3_29
+    21300054: SheetAttack-3_6
+    21300056: SheetAttack-3_7
+    21300058: SheetAttack-3_13
+    21300060: SheetAttack-3_5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheetAttack-3_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2466
+        width: 259
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2462
+        width: 358
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2459
+        width: 342
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_3
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2463
+        width: 358
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_4
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 2463
+        width: 365
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1477
+        width: 293
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1971
+        width: 357
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1480
+        width: 271
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_12
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1484
+        width: 251
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_8
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1967
+        width: 333
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_9
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1971
+        width: 311
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_14
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1477
+        width: 248
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 986
+        width: 248
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_16
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 986
+        width: 250
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_17
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 986
+        width: 251
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_18
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 986
+        width: 250
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_19
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 986
+        width: 251
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 252
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 493
+        width: 252
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 493
+        width: 253
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_23
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 491
+        width: 254
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_24
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 493
+        width: 255
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 254
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_26
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1
+        width: 255
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_27
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1
+        width: 256
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_28
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1
+        width: 257
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_29
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1
+        width: 257
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1980
+        width: 351
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1972
+        width: 343
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAttack-3_13
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1479
+        width: 274
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

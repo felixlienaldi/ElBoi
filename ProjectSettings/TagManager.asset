@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - enemy
+  - Projectile
+  - enemyEarth
+  - obstacle ice
+  - obstacle fire
+  - obstracle earth
+  - obstacle thunder
+  - Final Puzzle
+  - obstacle boulder
+  - obstacle crystal
+  - PlayerArea
+  - Sword
+  - PlayerTorso
+  - Spikes
+  - GUARDIAN
+  - Boss
+  - Thunder Skill
+  - susu
+  - bossAttack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 0f655f82192121d42963e21127d3d4fd
+timeCreated: 1516773771
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SheetEarthShield_0
+    21300002: SheetEarthShield_1
+    21300004: SheetEarthShield_2
+    21300006: SheetEarthShield_3
+    21300008: SheetEarthShield_4
+    21300010: SheetEarthShield_5
+    21300012: SheetEarthShield_6
+    21300014: SheetEarthShield_7
+    21300016: SheetEarthShield_8
+    21300018: SheetEarthShield_9
+    21300020: SheetEarthShield_10
+    21300022: SheetEarthShield_11
+    21300024: SheetEarthShield_12
+    21300026: SheetEarthShield_13
+    21300028: SheetEarthShield_14
+    21300030: SheetEarthShield_15
+    21300032: SheetEarthShield_16
+    21300034: SheetEarthShield_17
+    21300036: SheetEarthShield_18
+    21300038: SheetEarthShield_19
+    21300040: SheetEarthShield_20
+    21300042: SheetEarthShield_21
+    21300044: SheetEarthShield_22
+    21300046: SheetEarthShield_23
+    21300048: SheetEarthShield_24
+    21300050: SheetEarthShield_25
+    21300052: SheetEarthShield_26
+    21300054: SheetEarthShield_27
+    21300056: SheetEarthShield_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheetEarthShield_0
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3082
+        width: 419
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_1
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 3061
+        width: 590
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_2
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 3072
+        width: 521
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_3
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 3092
+        width: 526
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2473
+        width: 533
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_5
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2452
+        width: 534
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_6
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2487
+        width: 531
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_7
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2528
+        width: 485
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_8
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 2527
+        width: 599
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1928
+        width: 572
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1901
+        width: 613
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_11
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1908
+        width: 571
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_12
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1916
+        width: 619
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_13
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1928
+        width: 601
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1327
+        width: 627
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1334
+        width: 621
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_16
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1342
+        width: 645
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_17
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1350
+        width: 636
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_18
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 1346
+        width: 625
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 629
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_20
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 704
+        width: 623
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_21
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 711
+        width: 636
+        height: 569
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_22
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 704
+        width: 630
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_23
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 702
+        width: 642
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 636
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_25
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 44
+        width: 634
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_26
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 68
+        width: 634
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_27
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 82
+        width: 633
+        height: 581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetEarthShield_28
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 63
+        width: 633
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

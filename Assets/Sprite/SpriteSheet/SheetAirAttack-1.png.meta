@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: a3a98f47941af104fa49ad6fd55e4b9f
+timeCreated: 1516769852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SheetAirAttack-1_0
+    21300002: SheetAirAttack-1_1
+    21300004: SheetAirAttack-1_2
+    21300006: SheetAirAttack-1_3
+    21300008: SheetAirAttack-1_4
+    21300010: SheetAirAttack-1_5
+    21300012: SheetAirAttack-1_6
+    21300014: SheetAirAttack-1_7
+    21300016: SheetAirAttack-1_8
+    21300018: SheetAirAttack-1_9
+    21300020: SheetAirAttack-1_10
+    21300022: SheetAirAttack-1_11
+    21300024: SheetAirAttack-1_12
+    21300026: SheetAirAttack-1_13
+    21300028: SheetAirAttack-1_14
+    21300030: SheetAirAttack-1_15
+    21300032: SheetAirAttack-1_16
+    21300034: SheetAirAttack-1_17
+    21300036: SheetAirAttack-1_18
+    21300038: SheetAirAttack-1_19
+    21300040: SheetAirAttack-1_20
+    21300042: SheetAirAttack-1_21
+    21300044: SheetAirAttack-1_22
+    21300046: SheetAirAttack-1_23
+    21300048: SheetAirAttack-1_24
+    21300050: SheetAirAttack-1_25
+    21300052: SheetAirAttack-1_26
+    21300054: SheetAirAttack-1_27
+    21300056: SheetAirAttack-1_28
+    21300058: SheetAirAttack-1_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheetAirAttack-1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2845
+        width: 213
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2823
+        width: 246
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_2
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2830
+        width: 242
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2833
+        width: 232
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_4
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 2832
+        width: 244
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2266
+        width: 251
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2265
+        width: 254
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_7
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2265
+        width: 249
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2265
+        width: 312
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_9
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2265
+        width: 292
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1701
+        width: 265
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1701
+        width: 254
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_12
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1704
+        width: 252
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_13
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1704
+        width: 248
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_14
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1706
+        width: 247
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1140
+        width: 247
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_16
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1141
+        width: 245
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_17
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1141
+        width: 244
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_18
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1141
+        width: 241
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_19
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1143
+        width: 240
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 579
+        width: 238
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 579
+        width: 237
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_22
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 579
+        width: 235
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_23
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 580
+        width: 232
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_24
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 580
+        width: 230
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 229
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_26
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 16
+        width: 225
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_27
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 17
+        width: 223
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_28
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 17
+        width: 221
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetAirAttack-1_29
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 18
+        width: 218
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

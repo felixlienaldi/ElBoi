@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: af9e538502fae024ebf12f651c3a18c1
+timeCreated: 1516772747
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SheetBlink_Idle_Appear_0
+    21300002: SheetBlink_Idle_Appear_1
+    21300004: SheetBlink_Idle_Appear_2
+    21300006: SheetBlink_Idle_Appear_3
+    21300008: SheetBlink_Idle_Appear_4
+    21300010: SheetBlink_Idle_Appear_5
+    21300012: SheetBlink_Idle_Appear_6
+    21300014: SheetBlink_Idle_Appear_7
+    21300016: SheetBlink_Idle_Appear_8
+    21300018: SheetBlink_Idle_Appear_9
+    21300020: SheetBlink_Idle_Appear_10
+    21300022: SheetBlink_Idle_Appear_11
+    21300024: SheetBlink_Idle_Appear_12
+    21300026: SheetBlink_Idle_Appear_13
+    21300028: SheetBlink_Idle_Appear_14
+    21300030: SheetBlink_Idle_Appear_15
+    21300032: SheetBlink_Idle_Appear_16
+    21300034: SheetBlink_Idle_Appear_17
+    21300036: SheetBlink_Idle_Appear_18
+    21300038: SheetBlink_Idle_Appear_19
+    21300040: SheetBlink_Idle_Appear_20
+    21300042: SheetBlink_Idle_Appear_21
+    21300044: SheetBlink_Idle_Appear_22
+    21300046: SheetBlink_Idle_Appear_23
+    21300048: SheetBlink_Idle_Appear_24
+    21300050: SheetBlink_Idle_Appear_25
+    21300052: SheetBlink_Idle_Appear_-4
+    21300054: SheetBlink_Idle_Appear_-3
+    21300056: SheetBlink_Idle_Appear_-2
+    21300058: SheetBlink_Idle_Appear_-1
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_0
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2421
+        width: 242
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1935
+        width: 243
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1935
+        width: 243
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1935
+        width: 243
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_4
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1935
+        width: 239
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1935
+        width: 236
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1451
+        width: 233
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1451
+        width: 233
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1451
+        width: 234
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_9
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1451
+        width: 235
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_10
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1451
+        width: 235
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 966
+        width: 235
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 966
+        width: 236
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 966
+        width: 236
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_14
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 966
+        width: 238
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_15
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 967
+        width: 238
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 483
+        width: 238
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 483
+        width: 239
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 483
+        width: 239
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_19
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 483
+        width: 240
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_20
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 483
+        width: 241
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 241
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_22
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 242
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_23
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 242
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 242
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_25
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 0
+        width: 243
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_-4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2432
+        width: 232
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_-3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2437
+        width: 243
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_-2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2442
+        width: 220
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SheetBlink_Idle_Appear_-1
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2442
+        width: 211
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
